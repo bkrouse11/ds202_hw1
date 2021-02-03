@@ -1,0 +1,17 @@
+---
+title: "Partner"
+author: "Samuel Reinart"
+output: html_document
+---
+
+Name: Samuel Reinart
+
+Github Username: SamReinart
+
+
+In the most recent commit, Brandon added 86 lines to hw1.Rmd with his answers.
+
+Commit ID: ac768a40c4dc45702daa36741d0858a388fe6cda
+
+
+Git Tip: In big group projects, use branches instead of editing master.
